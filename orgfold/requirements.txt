@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+pypdf
+unstructured
+markdown
